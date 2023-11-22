@@ -1,4 +1,4 @@
-# Segment Anything
+# Segment Anything Model
 
 [![image](https://img.shields.io/pypi/v/segment-anything-py.svg)](https://pypi.python.org/pypi/segment-anything-py)
 [![image](https://img.shields.io/conda/vn/conda-forge/segment-anything.svg)](https://anaconda.org/conda-forge/segment-anything)
